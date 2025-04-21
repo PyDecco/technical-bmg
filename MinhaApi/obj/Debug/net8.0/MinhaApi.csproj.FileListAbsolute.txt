@@ -16,7 +16,13 @@
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/bin/Debug/net8.0/Npgsql.dll
@@ -89,6 +95,7 @@
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/MinhaApi.csproj.CoreCompileInputs.cache
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/MinhaApi.MvcApplicationPartsAssemblyInfo.cs
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/MinhaApi.MvcApplicationPartsAssemblyInfo.cache
+/home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/MinhaApi.sourcelink.json
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/staticwebassets.build.json
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/staticwebassets.development.json
 /home/deco/projetos/PyDecco/technical-bmg/MinhaApi/obj/Debug/net8.0/staticwebassets/msbuild.MinhaApi.Microsoft.AspNetCore.StaticWebAssets.props
